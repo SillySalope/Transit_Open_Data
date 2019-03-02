@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551563101883.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "74442D0",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1551563101883,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1456199A",
+        "caption" : "rawlocs",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=rawlocs&cache_key=1456199A",
+        "displayedObservations" : "8601",
+        "environment" : "",
+        "object" : "rawlocs",
+        "preview" : "0",
+        "totalObservations" : "8601",
+        "variables" : "15"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

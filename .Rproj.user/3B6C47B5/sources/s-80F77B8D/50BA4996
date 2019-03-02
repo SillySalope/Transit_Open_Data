@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551562762511.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2415915113",
+    "id" : "50BA4996",
+    "lastKnownWriteTime" : 1551564145,
+    "last_content_update" : 1551564145522,
+    "path" : "~/GitHub/Transit_Open_Data/01-mapping-stations.R",
+    "project_path" : "01-mapping-stations.R",
+    "properties" : {
+        "cursorPosition" : "64,0",
+        "scrollLine" : "33"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
